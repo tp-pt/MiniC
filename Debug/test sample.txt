@@ -1,0 +1,12 @@
+
+int a;
+int c[10];
+int main(void) {
+	int f;
+	int r;
+	{
+		int cc;
+		int rr;
+	}
+
+}

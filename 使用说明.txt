@@ -1,0 +1,14 @@
+
+直接编译按以下步骤进行：
+（1）通过选择windows界面左下角的【开始】菜单进入【运行...】,并在出现的输入条中输入[cmd]回车。
+（2）进入项目所在文件夹，进入Debug文件夹，例如项目在桌面：cd Desktop/MiniC-Complier/Debug。
+（3）在命令行状态下接着输入 MiniC-Complier.exe test.txt回车，即可编译该程序。
+（4）可以修改test.txt文件内容 进行编译。
+或者使用visual studio 2019或2017打开项目，进行build和生成新的Debug文件，再按照上述步骤使用。
+
+
+
+
+
+
+

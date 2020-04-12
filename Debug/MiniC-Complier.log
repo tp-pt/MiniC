@@ -1,0 +1,6 @@
+﻿  main.c
+  parse.c
+  scan.c
+  util.c
+  Generating Code...
+  MiniC-Complier.vcxproj -> C:\Users\HJY15\Desktop\MiniC-Complier\Debug\MiniC-Complier.exe

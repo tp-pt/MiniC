@@ -1,0 +1,39 @@
+/*int a;
+void funcA(int a,int c){
+	int b;
+	int d;
+	int e;
+	int f;
+}
+
+int main(void) {
+	int f;
+	int r;
+	{
+		int cc;
+		int rr;
+	}
+
+}
+*/
+int funcB(void) {
+	int b;
+	int c;
+	int a[10];
+/*local dec 
+stmt-list
+*/
+	b = 0;
+	a[0] = 1;
+	while (a[0]<=10) {
+	a[0] = a[0] + 1;
+
+	}
+	
+}
+
+int c;
+
+int funcD(int e){
+	e = 0;
+}
